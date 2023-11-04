@@ -1,0 +1,114 @@
+// .container {
+//     max-width: 600px;
+//     width: 100%;
+//     margin: auto;
+//     background: #eee;
+//     }
+
+//     .container .sidebar,
+// .cortainer .main {
+// padding: 10px;
+// }
+// .container .main {
+//     margin-left: 220px;
+//     min-height: 100vh;
+//     border-left: 2px solid #333;
+//     }
+//     .container .sidebar {
+//         width: 200px;
+//         float: left;
+//         }
+
+// .container{
+//     max-width: 600px;
+//     width: 100%;
+//     margin: auto;
+//     background: #eee;
+//     .main{
+//         padding: 10px;
+//         margin-left: 220px;
+//         min-height: 100vh;
+//         border-left:  2px solid;
+//     }
+//     .sidebar{
+//         width: 200px;
+//         float: left;
+//         padding: 10px;
+//     }
+
+// }
+
+
+// .header{
+//     display: flex;
+//     width: 1300px;
+//     height: 600px;
+//     border: 1px solid;
+//     margin: 0 auto;
+//     .header__nav{
+//         display: flex;
+//         width: 100%;
+//         height: 10%;
+//         border: 1px solid;
+//         .header__nav-logo{
+//             width: 30%;
+//             height: 100%;
+//         }
+//         .header__nav-list{
+//             width: 70%;
+//             height: 100%;
+//         }
+//     }
+//     .header__hero{
+//         width: 100%;
+//         height: 90%;
+//         .header__hero-left{
+//             width: 50%;
+//             height: 100%;
+//             border: 1px solid;
+//         }
+//         .header__hero-right{
+//             width: 50%;
+//             height: 100%;
+//             border: 1px solid;
+//         }
+//     }
+
+// }
+
+.header{
+    display: flex;
+    width: 1300px;
+    height: 600px;
+    border: 1px solid;
+    margin: 0 auto;
+    &__nav{
+        display: flex;
+        width: 100%;
+        height: 10%;
+        border: 1px solid;
+        &-logo{
+            width: 30%;
+            height: 100%;
+        }
+        &-list{
+            width: 70%;
+            height: 100%;
+        }
+    }
+    &__hero{
+        width: 100%;
+        height: 90%;
+        &-left{
+            width: 50%;
+            height: 100%;
+            border: 1px solid;
+        }
+        &-right{
+            width: 50%;
+            height: 100%;
+            border: 1px solid;
+        }
+    }
+    
+}
