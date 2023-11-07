@@ -3,6 +3,7 @@ body {
 }
 body .header .nav .container {
   max-width: 1700px;
+  width: 100%;
   margin: 0 auto;
   background: #FFF;
 }
@@ -58,6 +59,7 @@ body .header .nav .container .navbar__block__menu-btn:active {
 }
 body .header .container {
   max-width: 1700px;
+  width: 100%;
   margin: 0 auto;
   background: #FAF8F6;
 }
@@ -144,6 +146,7 @@ body .header .container .About__me .About__me__mg .About__me__mg-mg3 {
 }
 body .main .section .container {
   max-width: 1700px;
+  width: 100%;
   margin: 0 auto;
   background: #FFF;
 }
@@ -172,6 +175,7 @@ body .main .section .container .world__largest .world__largest__companies .world
 body .main .section .container {
   max-width: 1700px;
   margin: 0 auto;
+  width: 100%;
 }
 body .main .section .container .customer__opinion {
   background: #FAF8F6;
@@ -248,6 +252,7 @@ body .main .section .container .customer__opinion .about__customer__opinion .abo
 }
 body .main .section .container {
   max-width: 1700px;
+  width: 100%;
   margin: 0 auto;
   background: #FFF;
 }
@@ -320,6 +325,7 @@ body .main .section .container .change .change__life__info-p {
 }
 body .main .article .container {
   max-width: 1700px;
+  width: 100%;
   margin: 0 auto;
 }
 body .main .article .container .about__informatsion .about__informatsion__blog-h4 {
@@ -396,6 +402,7 @@ body .main .article .container .about__informatsion .question .question__img:act
 }
 body .main .article .container {
   max-width: 1700px;
+  width: 100%;
   margin: 0 auto;
 }
 body .main .article .container .conversation {
@@ -456,6 +463,7 @@ body .main .article .container .conversation button:active {
 }
 body .main .article .container {
   max-width: 1700px;
+  width: 100%;
   margin: 0 auto;
 }
 body .main .article .container .news {
